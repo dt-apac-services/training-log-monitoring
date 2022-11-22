@@ -1,25 +1,26 @@
-- Objectives for this training
-	-  Guide to Dynatrace Log Monitoring docs
-	- Answer some common but "hard to find the answer" questions
-		- Things that Dev's assume User's already know
-	- Implementation Guide
-	- How to try examples in Dynatrace docs pages
-	- Why do Log Processing and Parsing
-	- Why use Log Attributes
-	- Log Events & Log Metrics
-- FAQs
-	- How long does it take for log entries to show in console once log file is monitored?
-		- ~ 2 mins
-	- Where to check if log data is being sent successfully to cluster?
-		- Unix
-		  `/var/log/dynatrace/oneagent/loganalytics/oneagent-logmon-detailed.log`
-		- Windows
-		  `%PROGRAMDATA%\dynatrace\oneagent\log\loganalytics/oneagent-logmon-detailed.log`
-	- Log Monitoring logs
-		- Unix
-		  `/var/log/dynatrace/oneagent/loganalytics/`
-		- Windows
-		  `%PROGRAMDATA%\dynatrace\oneagent\log\loganalytics\`
+## Training Objectives
+-  Guide to Dynatrace Log Monitoring docs
+- Answer some common but "hard to find the answer" questions
+	- Things that Dev's assume User's already know
+- Implementation Guide
+- How to try examples in Dynatrace docs pages
+- Why do Log Processing and Parsing
+- Why use Log Attributes
+- Log Events & Log Metrics
+- 
+-  FAQs
+- How long does it take for log entries to show in console once log file is monitored?
+	- ~ 2 mins
+- Where to check if log data is being sent successfully to cluster?
+	- Unix
+	  `/var/log/dynatrace/oneagent/loganalytics/oneagent-logmon-detailed.log`
+	- Windows
+	  `%PROGRAMDATA%\dynatrace\oneagent\log\loganalytics/oneagent-logmon-detailed.log`
+- Log Monitoring logs
+	- Unix
+	  `/var/log/dynatrace/oneagent/loganalytics/`
+	- Windows
+	  `%PROGRAMDATA%\dynatrace\oneagent\log\loganalytics\`
 - Logs Basics
 	- Log Types
 		- Unstructured Logs
