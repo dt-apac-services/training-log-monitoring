@@ -18,8 +18,11 @@
 
 ## Dynatrace demo environment setup (Steps 1-4)
 
+Click on image to Watch video
 
 [![Dynatrace lab environment setup](../images/lab-environment-setup.png)](https://youtu.be/W7YURx4N_nY)
+
+<br/>
 
 
 
