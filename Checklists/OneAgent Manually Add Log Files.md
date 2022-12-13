@@ -1,5 +1,6 @@
 Doc page - [Log file matching](https://www.dynatrace.com/support/help/shortlink/log-monitoring-custom-source#log-file-matching)
-Text log files example table - [Table](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/acquire-log-data/add-log-files-manually-v2#:~:text=sources%20and%20storage-,Example%3A,-If%20you%20have)
+
+.txt log file help table - [Table](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/acquire-log-data/add-log-files-manually-v2#:~:text=sources%20and%20storage-,Example%3A,-If%20you%20have)
 - [ ] Log paths must be absolute
 	- [ ] Windows paths must start with `drive_letter:\`
 	- [ ] Linux paths must start with `/`
