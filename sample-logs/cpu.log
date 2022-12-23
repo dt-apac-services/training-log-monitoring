@@ -1,0 +1,14 @@
+22/12/2022 11:05 WARN This is a sample warn log line. CPU usage 50.
+22/12/2022 11:06 WARN This is a sample warn log line. CPU usage 60.
+22/12/2022 11:07 WARN This is a sample warn log line. CPU usage 62.
+22/12/2022 11:08 WARN This is a sample warn log line. CPU usage 65.
+22/12/2022 11:09 WARN This is a sample warn log line. CPU usage 70.
+22/12/2022 11:10 WARN This is a sample warn log line. CPU usage 76.
+22/12/2022 11:11 INFO This is a sample info log line. CPU usage 45.
+22/12/2022 11:12 INFO This is a sample info log line. CPU usage 30.
+22/12/2022 11:13 WARN This is a sample info log line. CPU usage 50.
+22/12/2022 11:14 CRITICAL This is a sample warn log line. CPU usage 90.
+22/12/2022 11:15 CRITICAL This is a sample warn log line. CPU usage 95.
+22/12/2022 11:16 WARN This is a sample warn log line. CPU usage 65.
+22/12/2022 11:17 WARN This is a sample warn log line. CPU usage 50.
+22/12/2022 11:18 INFO This is a sample warn log line. CPU usage 35.

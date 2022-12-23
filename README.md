@@ -4,4 +4,4 @@
 
 This course covers Dynatrace Log Monitoring capability.
 
-## Start here: [1. Log Monitoring](1.%20Log%20Monitoring.md)
+## Start here: [1-log-monitoring](1-log-monitoring.md)
