@@ -1,0 +1,28 @@
+# OneAgent AutoDiscovery - Checklist
+
+- [ ] System Logs
+	- [ ] Windows
+		- [ ] Windows Security Log
+		- [ ] Windows Application Log
+		- [ ] Windows System Log
+	- [ ] Linux
+		- [ ] `/var/log/messages`
+		- [ ] `/var/log/syslog`
+- [ ] Log files opened by running processes
+	- [ ] Opened by an important and running process
+	- [ ] IIS Logs (Windows only) - event and plan log files
+	- [ ] Container logs (Linux only) - Kubernetes, OpenShift and non-instrumented Docker.
+	- [ ] Must exist for a minimum of one minute
+	- [ ] Must have supported character encoding. UTF-8. UTF-8 BOM, UTF-16LE, UTF-16BE
+	- [ ] >= 0.5 KB in size
+	- [ ] updated in <= 7 days
+	- [ ] Log file path/name
+	    - [ ] Accepts `.log` & `.txt` extensions if following conditions met
+	        - [ ] If contained in a folder or direct subfolder of `log` or `logs` directory. Deep nested files won't be auto-discovered
+	            - Examples: `C:\log\log_file.txt` or `C:\logs\NewFolder\log_file.txt`
+	        - [ ] If not in `log` or `logs` folder then if the log file name has `log` literal preceded or followed by `.` or `_`
+	            - Examples: `C:\NewFolder\abc.log` or `C:\NewFolder\0565842.log.txt`
+
+<br/>
+
+### Back: [3.1-oneAgent](../3.1-oneAgent.md)
