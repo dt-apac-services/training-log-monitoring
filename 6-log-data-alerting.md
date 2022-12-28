@@ -12,7 +12,7 @@ We already covered `Log Events` and `Log Metrics` in [5. Log data analytics](5-l
 
 ## Congratulations!!
 
-Congratulations on completing the course. Please provide your valuable feedback for future improvements to the authors.
+Congratulations on completing the course. Please provide your valuable feedback to the authors for future improvements.
 
 Thank you!
 

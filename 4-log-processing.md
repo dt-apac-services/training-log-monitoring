@@ -58,7 +58,7 @@ NOTE: Dynatrace takes into account value specified in `Matcher` field when `Rule
 
 <br/>
 
-### Next: [4.1-processor-rule-definition](4.1-processor-rule-definition.md)
+### Next: [4.1 Processor rule definition](4.1-processor-rule-definition.md)
 
-### Previous: [3-log-ingestion](3-log-ingestion.md)
+### Previous: [3. Log ingestion](3-log-ingestion.md)
 

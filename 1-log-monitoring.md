@@ -76,4 +76,4 @@ Log Parsing and[ Dynatrace Pattern Language (DPL)](https://www.dynatrace.com/sup
 
 <br/>
 
-### Next: [2. Dynatrace Log Monitoring](2-dynatrace-log-monitoring.md)
+### Next: [2. Dynatrace log monitoring](2-dynatrace-log-monitoring.md)

@@ -2,7 +2,7 @@
 
 Log Ingestion is the process through with Log data is brought into Dynatrace. 
 
-As discussed in [2. Dynatrace Log Monitoring](2-dynatrace-log-monitoring.md), Dynatrace accepts logs from/through 4 different sources:
+As discussed in [2. Dynatrace log monitoring](2-dynatrace-log-monitoring.md), Dynatrace accepts logs from/through 4 different sources:
 1. OneAgent
 2. Cloud Providers
 	- AWS
@@ -54,12 +54,12 @@ Few items need your attention before setting up Dynatrace Log Monitoring:
 
 Next lets go through the different log ingestion setups.
 - [3.1 OneAgent](3.1-oneAgent.md)
-- [3.2 Cloud Providers](3.2-cloud-providers.md) (Coming soon)
-- [3.3 Open Source](3.3-open-source.md) (Coming soon)
+- [3.2 Cloud providers](3.2-cloud-providers.md) (Coming soon)
+- [3.3 Open-source](3.3-open-source.md) (Coming soon)
 - [3.4 Generic log ingest (Dynatrace API)](3.4-generic-log-ingest-dynatrace-api.md) (Coming soon)
 
 <br/>
 
-### Next: [3.1 OneAgent Log Ingest](3.1-oneAgent.md)
+### Next: [3.1 OneAgent log ingest](3.1-oneAgent.md)
 
-### Previous: [2-dynatrace-log-monitoring](2-dynatrace-log-monitoring.md) 
+### Previous: [2. Dynatrace log monitoring](2-dynatrace-log-monitoring.md) 

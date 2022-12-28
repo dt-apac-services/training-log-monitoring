@@ -51,6 +51,6 @@ Let's next dive into the different stages of Log Monitoring setup.
 
 <br/>
 
-### Next: [3. Log Ingestion](3-log-ingestion.md)
+### Next: [3. Log ingestion](3-log-ingestion.md)
 
-### Previous: [1. Log Monitoring](1-log-monitoring.md)
+### Previous: [1. Log monitoring](1-log-monitoring.md)
