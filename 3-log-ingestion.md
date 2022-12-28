@@ -55,8 +55,8 @@ Few items need your attention before setting up Dynatrace Log Monitoring:
 Next lets go through the different log ingestion setups.
 - [3.1 OneAgent](3.1-oneAgent.md)
 - [3.2 Cloud Providers](3.2-cloud-providers.md) (Coming soon)
-- [3.2 Open Source](3.3-open-source.md) (Coming soon)
-- [3.3 Generic log ingest (Dynatrace API)](3.4-generic-log-ingest-dynatrace-api.md) (Coming soon)
+- [3.3 Open Source](3.3-open-source.md) (Coming soon)
+- [3.4 Generic log ingest (Dynatrace API)](3.4-generic-log-ingest-dynatrace-api.md) (Coming soon)
 
 <br/>
 

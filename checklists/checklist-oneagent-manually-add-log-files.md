@@ -1,8 +1,11 @@
 # OneAgent Manually Add Log FIles - Checklist
 
-Doc page - [Log file matching](https://www.dynatrace.com/support/help/shortlink/log-monitoring-custom-source#log-file-matching)
+Dynatrace doc - [Log file matching](https://www.dynatrace.com/support/help/shortlink/log-monitoring-custom-source#log-file-matching)
 
 .txt log file help table - [Table](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/acquire-log-data/add-log-files-manually-v2#:~:text=sources%20and%20storage-,Example%3A,-If%20you%20have)
+
+OneAgent discovers logs if 'any' of below conditions are met (unless specified otherwise):
+
 - [ ] Log paths must be absolute
 	- [ ] Windows paths must start with `drive_letter:\`
 	- [ ] Linux paths must start with `/`
@@ -15,9 +18,8 @@ Doc page - [Log file matching](https://www.dynatrace.com/support/help/shortlink/
 			  `C:\lo*\log_*.txt`
 	- [ ] File names only
 		- [ ] `#` can use used to replace numbers
-			- Example:
-			  `C:\log\log_12.log` -> `C:\log\log_#.log`
-- [ ] Log satisfies OneAgent security rules
+			- Example: `12` can be replaced by `#` in the log path `C:\log\log_12.log`. i.e.  `C:\log\log_#.log`
+- [ ] Log satisfies OneAgent security rules (To override security rules see [doc](https://www.dynatrace.com/support/help/shortlink/log-monitoring-custom-source#override-security-rules))
 	- [ ] Log path not in:
 		- [ ] `/etc`
 		- [ ] `/boot`
