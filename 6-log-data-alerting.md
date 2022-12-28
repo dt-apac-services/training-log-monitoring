@@ -16,4 +16,4 @@ Congratulations on completing the course. Please provide your valuable feedback 
 
 Thank you!
 
-Back to home page: [Home page](README.md)
+Back to home page: [Home page](https://github.com/dt-apac-services/training-log-monitoring)
