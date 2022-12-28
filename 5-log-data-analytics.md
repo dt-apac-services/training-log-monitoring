@@ -1,6 +1,6 @@
 # 5. Log Data Analytics
 
-This is the third main step of Dynatrace Log Monitoring. Once data is ingested and processed, it is available for viewing, creation of log events and log metrics and enrichment of traces (PurePaths)
+This is the third main step of Dynatrace Log Monitoring. Once data is ingested and processed, it is available for viewing, creation of log events and log metrics and enrichment of traces (PurePaths).
 
 Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Logs powered by Grail. 
 
@@ -9,35 +9,35 @@ Log Data Analytics step is where Dynatrace Log Monitoring capability diverges in
 
 ## Log Viewer
 
-Log Viewer lists all the ingested log entries. From this page we can filter for insights using the `Filter` bar. 
+Log Viewer lists all the ingested log entries. From this page you can filter for insights using the `Filter` bar. 
 
 The search Language for LQL is [Dynatrace Search Query Language](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/analyze-log-data/log-viewer#sql) while the search language for Logs powered by Grail is [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub)
 
-Clicking on a single log line opens it up in a pop-up view showing additional details including any fields (custom attributes) that were extracted during parsing. Figure 5.2 highlights `cpuusage` custom attribute that was captured in [4.1-processor-rule-definition](4.1-processor-rule-definition.md).
+Clicking on a single log line opens it up in a pop-up view showing additional details including any fields (custom attributes) that were extracted during parsing. Image 5.2 highlights `cpuusage` custom attribute that was captured in [4.1-processor-rule-definition](4.1-processor-rule-definition.md).
 
 
 ![log-viewer-1](images/log-viewer-1.png)
-<p align="center">Figure 5.1 Log viewer</p>
+<p align="center">Image 5.1 Log viewer</p>
 
 ![log-viewer-2](images/log-viewer-2.png)
-<p align="center">Figure 5.2 Log line window</p>
+<p align="center">Image 5.2 Log line window</p>
 
 ## Log Custom Attribute
 
-As we have already seen in this course, Dynatrace provides the capability to capture values from log lines. We captured a custom attribute in [4.1-processor-rule-definition](4.1-processor-rule-definition.md) when we setup the parsing rule to capture `cpuusage` value from `cpu.log`.
+As we have already seen in this course, Dynatrace provides the capability to capture values from log lines. We captured the custom attribute `cpuusage` in [4.1-processor-rule-definition](4.1-processor-rule-definition.md) when we setup the parsing rule for `cpu.log`.
 
-Custom attributes can be shown as a filter option in Log Viewer by enabling highlighted switch (figure 5.3) in `Settings > Log Monitoring > Log custom attributes`
+Custom attributes can be shown as a filter option in Log Viewer by enabling highlighted switch (image 5.3) in `Settings > Log Monitoring > Log custom attributes`
 
 ![log-custom-attribute](images/log-custom-attribute.png)
-<p align="center">Figure 5.3 Custom attribute configuration</p>
+<p align="center">Image 5.3 Custom attribute configuration</p>
 
 ## Log Events
 
 Events = Activity within the environment. 
 
-Dynatrace AI engine classifies observations within a monitoring environment into different event levels like 'Info', 'Custom', 'Error' and so on based on auto-baselines as well as fixed thresholds. 
+Dynatrace AI engine classifies its observations within a monitoring environment into different event levels like 'Info', 'Custom', 'Error' and so on based on auto-baselines as well as fixed thresholds. 
 
-In addition to decisions made by AI engine, Dynatrace also allows custom events to be to sent to Dynatrace via API and Log Events.
+In addition to AI engine, Dynatrace also allows custom events to be to sent to Dynatrace via API and Log Events.
 
 > Docs: 
 > - [Event types](https://www.dynatrace.com/support/help/shortlink/event-types)
@@ -58,9 +58,9 @@ Below are the event types that can be triggered using Log Events
 - Resource
 - Slowdown
 
-Some of these are meant as information only, for additional context, while other like Availability, Slowdown, Error, Resource and Custom Alert can be used to trigger problems (when matching log entry is ingested by Dynatrace). 
+Some of these are meant as information only, for additional context, while others like Availability, Slowdown, Error, Resource and Custom Alert can be used to trigger problems (when matching log entry is ingested by Dynatrace). 
 
-See [activity-log-event](activities/activity-log-event.md) for an example log event setup.
+See [Activity: Log event](activities/activity-log-event.md) for an example log event setup.
 
 While completing  the activity you may have noticed the limitation of Log Events for numerical values. The example log event requires that the `cpuvalue` be exactly `90` for the log event to trigger. This may not be ideal in real world cases. Therefore prefer Log Events for strings value and use Log Metrics when you need alerts based off numerical values.
 
@@ -79,7 +79,7 @@ Read more in Dynatrace doc -[Log metrics](https://www.dynatrace.com/support/help
 
 <br/>
 
-### Next: [6-log-data-alerting](6-log-data-alerting.md)
+### Next: [6. Log data alerting](6-log-data-alerting.md)
 
-### Previous: [4-log-processing](4-log-processing.md)
+### Previous: [4. Log processing](4-log-processing.md)
 
