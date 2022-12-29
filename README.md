@@ -43,8 +43,8 @@ This course covers Dynatrace Log Monitoring capability.
 
 ## Others
 
-- [FAQs](faqs.md)
-- [Troubleshooting](troubleshooting.md)
+- [FAQs](FAQs.md)
+- [Troubleshooting](troubleshooting-guide.md)
 
 <br/>
 
