@@ -18,7 +18,7 @@ Below video shows auto discovered logs and enabling log storage for a single log
 3. Wait for data to show in Log Viewer
 4. Check OneAgent logs
 
-<mark style="background: #FFE11C;">Video</mark> - Coming soon
+[![](../images/autodiscovery-log-sources-and-storage-setup.png)](https://youtu.be/fMGTuGAGztU)
 
 
 ## Log Storage Configuration (Latest)

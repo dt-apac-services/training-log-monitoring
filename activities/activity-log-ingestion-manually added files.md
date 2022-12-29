@@ -29,7 +29,7 @@ Steps:
 8. Wait for data to show in Log Viewer
 9. Check OneAgent logs
 
-<mark style="background: #FFE11C;">Video</mark> - Coming soon
+[![](../images/manual-log-sources-and-storage-setup.png)](https://youtu.be/lJ0iH330xco)
 
 ## Log Storage Configuration
 
