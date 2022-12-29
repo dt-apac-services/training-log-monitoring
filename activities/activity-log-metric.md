@@ -48,5 +48,5 @@ The metric should now be available in the list of Dynatrace `Metrics` to chart o
 <p align="center">Figure 5.11 Log Metric - Metric Events</p>
 <br/>
 
-### Back: [5-log-data-analytics](../5-log-data-analytics.md)
+### Back: [5. Log data analytics](../5-log-data-analytics.md)
 

@@ -126,6 +126,6 @@ This field can now be used to create a log metric and used for charting & alerti
 
 <br/>
 
-### Next: [5-log-data-analytics](../5-log-data-analytics.md)
+### Next: [5. Log data analytics](../5-log-data-analytics.md)
 
-### Previous: [4.1-processor-rule-definition](../4.1-processor-rule-definition.md)
+### Previous: [4.1 Processor rule definition](../4.1-processor-rule-definition.md)

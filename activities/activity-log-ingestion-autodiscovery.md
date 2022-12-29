@@ -36,10 +36,10 @@ Below video shows auto discovered logs and enabling log storage for a single log
 
 <br/>
 
-### Next: [activity-log-ingestion-manually added files](activity-log-ingestion-manually%20added%20files.md)
+### Next: [Activity: Manually added log files & Log Storage](activity-log-ingestion-manually%20added%20files.md)
 
-### Previous: [activity-setup-a-lab-environment](activity-setup-a-lab-environment.md)
+### Previous: [Activity: Setup a lab environment](activity-setup-a-lab-environment.md)
 
-### Section home: [3.1-oneAgent](../3.1-oneAgent.md)
+### Section home: [3.1 OneAgent](../3.1-oneAgent.md)
 
 

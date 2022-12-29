@@ -50,6 +50,6 @@ Steps:
 <mark style="background: #FFE11C;">Video</mark> - Coming soon
 
 
-### Previous: [activity-log-ingestion-autodiscovery](activity-log-ingestion-autodiscovery.md)
+### Previous: [Activity: Autodiscovery & Log Storage](activity-log-ingestion-autodiscovery.md)
 
-### Section home: [3.1-oneAgent](../3.1-oneAgent.md)
+### Section home: [3.1 OneAgent](../3.1-oneAgent.md)
