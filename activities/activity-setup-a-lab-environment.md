@@ -1,4 +1,4 @@
-# Setup a lab environment
+# Activity: Setup a Lab Environment
 ## Requirements:
 - A Virtual Machine with below min configuration:
 	- Windows OS (Recommended)

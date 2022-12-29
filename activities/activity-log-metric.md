@@ -1,4 +1,4 @@
-## Activity: Log metric configuration
+## Activity: Log Metric Configuration
 
 ## Requirement:
 Setup a Log Metric for `cpuusage` custom attribute.

@@ -1,4 +1,4 @@
-# Activity: Log event configuration
+# Activity: Log Event Configuration
 
 
 ## Requirement:

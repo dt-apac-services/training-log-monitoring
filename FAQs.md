@@ -1,3 +1,5 @@
+# FAQs
+
 - How long does it take for log entries to show in console once log file is monitored?
 	- ~ 2 mins
 - Where to check if log data is being sent successfully to cluster?
