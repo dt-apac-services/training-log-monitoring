@@ -14,7 +14,7 @@ Dynatrace provides the capability to manually add log files for ingestion if the
 
 ## Log Sources and Storage
 
-Below video shows manually adding logs and enabling log storage for a single log file in 'Log Sources and Storage' page.
+Below video shows manually adding logs and enabling log storage for a single log file in 'Log sources and storage' page.
 
 Steps:
 1. Download sample logs -  [Sample logs](https://github.com/dt-apac-services/training-log-monitoring/tree/main/sample-logs)
@@ -33,7 +33,7 @@ Steps:
 
 ## Log Storage Configuration
 
-Below video shows manually adding logs and enabling log storage for a single log file in 'Log Storage Configuration' page.
+Below video shows manually adding log and enabling log storage for a single log file in 'Log storage configuration' page.
 
 Steps:
 1. Download sample logs - [Sample logs](https://github.com/dt-apac-services/training-log-monitoring/tree/main/sample-logs)
@@ -48,6 +48,9 @@ Steps:
 
 [![](../images/manual-log-storage-configuration.png)](https://youtu.be/tFFEb0vrpb0)
 
+<br/>
+
+### Next: [4. Log processing](4-log-processing.md)
 
 ### Previous: [Activity: Autodiscovery & Log Storage](activity-log-ingestion-autodiscovery.md)
 

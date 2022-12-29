@@ -11,7 +11,7 @@ Dynatrace auto discovers demo application easyTravel logs. This is possible as O
 
 ## Log Sources and Storage 
 
-Below video shows auto discovered logs and enabling log storage for a single log in 'Log Sources and Storage' page.
+Below video shows auto discovered logs and enabling log storage for a single log in 'Log sources and storage' page.
 
 1. Check Auto discovered logs in Dynatrace
 2. Enable storage for an auto discovered log (easyTravel frontend)
@@ -23,7 +23,7 @@ Below video shows auto discovered logs and enabling log storage for a single log
 
 ## Log Storage Configuration (Latest)
 
-Below video shows auto discovered logs and enabling log storage for a single logs in 'Log Storage Configuration' page.
+Below video shows enabling log storage in 'Log storage configuration' page.
 
 > Note: Please complete [Manually added log file - log sources and storage](activity-log-ingestion-manually-added-files.md#Log%20Sources%20and%20Storage) steps (if you choose to) before upgrading to Log Storage configuration
 
