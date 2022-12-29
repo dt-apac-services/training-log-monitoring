@@ -26,7 +26,7 @@ Click on image to Watch video
 
 ### Next: [Activity: Autodiscovery & Log Storage](activity-log-ingestion-autodiscovery.md)
 
-### Previous: [3.1 OneAgent](../3.1-oneAgent.md)
+### Previous: [3.1 OneAgent](../3.1-oneagent.md)
 
 
 

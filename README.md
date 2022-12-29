@@ -10,7 +10,7 @@ This course covers Dynatrace Log Monitoring capability.
 2. [Dynatrace log monitoring](2-dynatrace-log-monitoring.md)
 3. [Log ingestion](3-log-ingestion.md)
 
-    3.1 [OneAgent](3.1-oneAgent.md)
+    3.1 [OneAgent](3.1-oneagent.md)
 
     3.2 [Cloud providers](3.2-cloud-providers.md) (Work-in-progress)
 
