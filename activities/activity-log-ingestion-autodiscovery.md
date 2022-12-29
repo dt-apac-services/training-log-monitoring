@@ -1,4 +1,4 @@
-# Autodiscovery & Log Storage
+# Activity: Autodiscovery & log storage
 
 > Note: Complete [activity-setup-a-lab-environment](activity-setup-a-lab-environment.md) before starting this activity.
 

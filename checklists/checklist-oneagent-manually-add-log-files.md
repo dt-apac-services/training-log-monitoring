@@ -1,4 +1,4 @@
-# OneAgent Manually Add Log FIles - Checklist
+# Checklist: OneAgent manually added log files
 
 Dynatrace doc - [Log file matching](https://www.dynatrace.com/support/help/shortlink/log-monitoring-custom-source#log-file-matching)
 

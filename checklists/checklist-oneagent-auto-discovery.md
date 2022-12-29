@@ -1,4 +1,4 @@
-# OneAgent AutoDiscovery - Checklist
+# Checklist: OneAgent autoDiscovery
 
 Dynatrace doc: [Log content autodiscovery](https://www.dynatrace.com/support/help/shortlink/log-monitoring-auto-discovery-v2)
 
