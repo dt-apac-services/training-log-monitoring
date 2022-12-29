@@ -54,4 +54,4 @@ Steps:
 
 ### Previous: [Activity: Autodiscovery & Log Storage](activity-log-ingestion-autodiscovery.md)
 
-### Section home: [3.1 OneAgent](../3.1-oneAgent.md)
+### Section home: [3.1 OneAgent](../3.1-oneagent.md)

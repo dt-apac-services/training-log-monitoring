@@ -42,6 +42,6 @@ Below video shows enabling log storage in 'Log storage configuration' page.
 
 ### Previous: [Activity: Setup a lab environment](activity-setup-a-lab-environment.md)
 
-### Section home: [3.1 OneAgent](../3.1-oneAgent.md)
+### Section home: [3.1 OneAgent](../3.1-oneagent.md)
 
 
