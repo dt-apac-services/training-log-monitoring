@@ -1,4 +1,4 @@
-# Checklist: Minimum Dynatrace versions
+# Checklist: Minimum Dynatrace Versions
 
 ## OneAgent
 v1.239+ 

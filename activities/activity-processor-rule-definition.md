@@ -1,4 +1,4 @@
-# Activity: Processor rule definition
+# Activity: Processor Rule Definition
 
 
 ### Setup steps & Example 1:

@@ -1,4 +1,4 @@
-# Activity: Manually added log files & log storage
+# Activity: Manually Added Log Files & Log Storage
 
 > Complete [activity-setup-a-lab-environment](activity-setup-a-lab-environment.md) before starting this activity.
 

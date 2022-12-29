@@ -25,21 +25,26 @@ This course covers Dynatrace Log Monitoring capability.
 6. [Log data alerting](6-log-data-alerting.md)
 
 ## Activities
-1. [Activity: Setup a lab environment](activities/activity-setup-a-lab-environment.md)
-2. [Activity: Autodiscovery & log storage](activities/activity-log-ingestion-autodiscovery.md)
-3. [Activity: Manually added log files & log storage](activities/activity-log-ingestion-manually-added-files.md)
-4. [Activity: Processor rule definition](activities/activity-processor-rule-definition.md)
-5. [Activity: Log event configuration](activities/activity-log-event.md)
-6. [Activity: Log metric configuration](activities/activity-log-metric.md)
+- [Activity: Setup a lab environment](activities/activity-setup-a-lab-environment.md)
+- [Activity: Autodiscovery & log storage](activities/activity-log-ingestion-autodiscovery.md)
+- [Activity: Manually added log files & log storage](activities/activity-log-ingestion-manually-added-files.md)
+- [Activity: Processor rule definition](activities/activity-processor-rule-definition.md)
+- [Activity: Log event configuration](activities/activity-log-event.md)
+- [Activity: Log metric configuration](activities/activity-log-metric.md)
 
 ## Checklists
-1. [Checklist: Minimum Dynatrace versions](checklists/checklist-minimum-dynatrace-versions.md)
-2. [Checklist: OneAgent autodiscovery](checklists/checklist-oneagent-auto-discovery.md)
-3. [Checklist: OneAgent manually added log files](checklists/checklist-oneagent-manually-add-log-files.md)
+- [Checklist: Minimum Dynatrace versions](checklists/checklist-minimum-dynatrace-versions.md)
+- [Checklist: OneAgent autodiscovery](checklists/checklist-oneagent-auto-discovery.md)
+- [Checklist: OneAgent manually added log files](checklists/checklist-oneagent-manually-add-log-files.md)
 
 
 ## Help sheets
-1. [Help sheet: Log parsing](help-sheets/help-sheet-log-parsing.md)
+- [Help sheet: Log parsing](help-sheets/help-sheet-log-parsing.md)
+
+## Others
+
+- [FAQs](faqs.md)
+- [Troubleshooting](troubleshooting.md)
 
 <br/>
 
