@@ -36,18 +36,17 @@ Steps:
 Below video shows manually adding logs and enabling log storage for a single log file in 'Log Storage Configuration' page.
 
 Steps:
-1. Download sample logs - [Microsoft HDInsight Sample Log File](https://www.microsoft.com/en-us/download/details.aspx?id=37003)
+1. Download sample logs - [Sample logs](https://github.com/dt-apac-services/training-log-monitoring/tree/main/sample-logs)
 2. Add log files to folders
-   `C:\log\agent\sample\sample.log`
-   `C:\log\agent\actor\actors.txt` (This will present with an error. See if you can resolve it following [checklist-oneagent-manually-add-log-files](../checklists/checklist-oneagent-manually-add-log-files.md) checklist )
-3. Add custom log file path using Host settings
-4. Create storage rule for the manual log
-5. Check OneAgent logs
-6. Add new entries to log file with current timestamp
-7. Wait for data to show in Log Viewer
-8. Check OneAgent logs
+   `C:\sample-logs\cpu.log`
+   `C:\log\sample\sample.txt` 
+3. Add custom log file path in Host settings
+4. Create storage rule for the manual log in Host settings
+5. Add new entries to log file with current timestamp
+6. Wait for data to show in Log Viewer
+7. Check OneAgent logs
 
-<mark style="background: #FFE11C;">Video</mark> - Coming soon
+[![](../images/manual-log-storage-configuration.png)](https://youtu.be/tFFEb0vrpb0)
 
 
 ### Previous: [Activity: Autodiscovery & Log Storage](activity-log-ingestion-autodiscovery.md)

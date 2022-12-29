@@ -25,18 +25,20 @@ Below video shows auto discovered logs and enabling log storage for a single log
 
 Below video shows auto discovered logs and enabling log storage for a single logs in 'Log Storage Configuration' page.
 
-> Note: Please complete [](activity-log-ingestion-manually%20added%20files.md#Log%20Sources%20and%20Storage) steps (if you choose to) before upgrading to Log Storage configuration
+> Note: Please complete [Manually added log file - log sources and storage](activity-log-ingestion-manually-added-files.md#Log%20Sources%20and%20Storage) steps (if you choose to) before upgrading to Log Storage configuration
 
-1. Check Auto discovered logs in Dynatrace
-2. Create rule for single auto discovered log (easyTravel frontend)
-3. Wait for data to show in Log Viewer
-4. Check OneAgent logs
+1. Upgrade to Log Storage Configuration 
+2. Create storage rule for ProcessGroups 
+3. Check logs in Log Viewer 
+4. Create store rule for log source
+5. Check logs in Log Viewer
+6. Check OneAgent logs
 
-<mark style="background: #FFE11C;">Video</mark> - Coming soon
+[![](../images/autodiscovery-log-storage-configuration.png)](https://youtu.be/aaByoocwKIU)
 
 <br/>
 
-### Next: [Activity: Manually added log files & Log Storage](activity-log-ingestion-manually%20added%20files.md)
+### Next: [Activity: Manually added log files & Log Storage](activity-log-ingestion-manually-added-files.md)
 
 ### Previous: [Activity: Setup a lab environment](activity-setup-a-lab-environment.md)
 
