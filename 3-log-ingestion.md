@@ -1,6 +1,6 @@
 # 3. Log Ingestion
 
-Log Ingestion is the process through with Log data is brought into Dynatrace. 
+Log Ingestion is the process through which Log data is brought into Dynatrace. 
 
 As discussed in [2. Dynatrace log monitoring](2-dynatrace-log-monitoring.md), Dynatrace accepts logs from/through 4 different sources:
 1. OneAgent
@@ -60,6 +60,6 @@ Next lets go through the different log ingestion setups.
 
 <br/>
 
-### Next: [3.1 OneAgent log ingest](3.1-oneagent.md)
+### Next: [3.1 OneAgent](3.1-oneagent.md)
 
 ### Previous: [2. Dynatrace log monitoring](2-dynatrace-log-monitoring.md) 

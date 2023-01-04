@@ -1,10 +1,10 @@
 # 2. Dynatrace Log Monitoring
 
 There are 4 main stages to Dynatrace Log Monitoring setup
-- Log Ingestion
-- Log Processing
-- Log Data Analytics
-- Log Data Alerting
+1. Log Ingestion
+2. Log Processing
+3. Log Data Analytics
+4. Log Data Alerting
 
 ## Log Ingestion
 This is the first step of Dynatrace Log Monitoring where logs are sent to Dynatrace Servers (ingested).
@@ -23,12 +23,14 @@ Dynatrace accepts logs from/through 4 different sources:
 ## Log Processing (parsing)
 Log Processing is the second step in Dynatrace Log Monitoring setup. In this step, log lines are reshaped into required format (using processing rules) for better understanding, efficient filtering and data extraction. As discussed previously, without processing, Log Monitoring systems may not be able to separate out important parts of the log message.
 
+Custom Attribute capture can be setup in this stage.
+
 Processing Language used at this stage is  [Dynatrace Pattern Language](https://www.dynatrace.com/support/help/shortlink/dpl-dynatrace-pattern-language-hub)
 
-NOTE: Logs powered by Grail has the capability to parse logs in-line during a log search. This in-line parsing (which we will be discussing this later) is done using [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub).
+NOTE: Logs powered by Grail has the capability to parse logs in-line during a log search. This in-line parsing (discussed later) is done using [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub).
 
 ## Log Data Analytics
-This is the third step of Dynatrace Log Monitoring. Once the data is in Dynatrace and parsed, it is available for viewing through  'Log Viewer'. In this step more actions like custom log metric & custom attributes (capture of specific value) creation are available.
+This is the third step of Dynatrace Log Monitoring. Once the data is in Dynatrace and parsed, it is available for viewing through  'Log Viewer'. In this step more actions like custom log metric & custom attributes (capture of specific value) creation are done.
 
 Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Logs powered by Grail. 
 
@@ -47,7 +49,7 @@ The final step of Log Monitoring is setting up of alerts based on log content. A
 
 <br/>
 
-Let's next dive into the different stages of Log Monitoring setup.
+Next  let's dive into the different stages of Log Monitoring setup.
 
 <br/>
 

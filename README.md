@@ -2,7 +2,9 @@
 
 > Note: Work in progress
 
-This course covers Dynatrace Log Monitoring capability. 
+This course covers Dynatrace Log Monitoring capability.
+
+Please read this together with Dynatrace documentation.
 
 ## Table of Contents:
 

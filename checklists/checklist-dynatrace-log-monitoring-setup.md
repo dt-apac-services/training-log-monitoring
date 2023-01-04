@@ -1,0 +1,25 @@
+# Checklist: Dynatrace Log Monitoring Setup
+
+ - [ ] Log ingestion
+	 - [ ] OneAgent
+		 - [ ] Logs discovered
+			 - [ ] Autodiscovered logs - checklist
+			 - [ ] Manually added log files - checklist
+		 - [ ] Log storage enabled
+	 - [ ] Cloud Providers
+		 - [ ] AWS
+		 - [ ] Azure
+		 - [ ] GCP
+	 - [ ] Open Source
+		 - [ ] Fluentd
+		 - [ ] Logstash
+	 - [ ] Generic Log Ingest (Dynatrace API)
+ - [ ] Log processing
+	 - [ ] Log processing rules setup
+	 - [ ] Custom Attributes capture setup
+ - [ ] Log data analytics
+	 - [ ] Logs verified in log viewer
+ - [ ] Log data alerting
+	 - [ ] Log events setup
+	 - [ ] Log metrics setup
+	 - [ ] Alerting profile & problem notification setup

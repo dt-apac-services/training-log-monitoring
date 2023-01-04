@@ -42,11 +42,11 @@ Dec 14 06:29:13 ip-172-31-9-214 systemd[1]: NetworkManager-dispatcher.service: S
 ```
 
 
-In above Dynatrace structured log you can see the original log line in the `content` field. The other fields are added either by Dynatrace OneAgent before sending the logs or by Dynatrace Server after ingesting the line.
+In above Dynatrace structured log, you can see the original log line in the `content` field. The other fields are added either by Dynatrace OneAgent before sending the logs or by Dynatrace Server after ingesting the line.
 
 `dt.entity.process`, `dt.entity.process_group_instance`,`dt.host_group.id`,`dt.entity.host` are all examples of fields added by Dynatrace OneAgent. Some of the other fields like `timestamp`,`status`, `loglevel` are added by Server after parsing the line (based on built-in parsing rule or custom rules).
 
-Therefore, when using `Rule testing` either click `Download sample log` button, to get the latest line based on the `Matcher` value (recommended), or specify entry in the following format.
+Therefore, when using `Rule testing`, either click `Download sample log` button to get the latest line based on the `Matcher` value (recommended), or specify entry in the following format.
 
 ```log
 {
