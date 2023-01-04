@@ -35,6 +35,7 @@ Please read this together with Dynatrace documentation.
 - [Activity: Log metric configuration](activities/activity-log-metric.md)
 
 ## Checklists
+- [Checklist: Dynatrace Log Monitoring Setup](checklists/checklist-dynatrace-log-monitoring-setup.md)
 - [Checklist: Minimum Dynatrace versions](checklists/checklist-minimum-dynatrace-versions.md)
 - [Checklist: OneAgent autodiscovery](checklists/checklist-oneagent-auto-discovery.md)
 - [Checklist: OneAgent manually added log files](checklists/checklist-oneagent-manually-add-log-files.md)
