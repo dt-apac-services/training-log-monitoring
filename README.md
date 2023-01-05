@@ -2,9 +2,11 @@
 
 > Note: Work in progress
 
+> Note: This is not an official guide. Please see [Log Monitoring](https://www.dynatrace.com/support/help/shortlink/log-monitoring-hub) for Dynatrace official documentation.
+
 This course covers Dynatrace Log Monitoring capability.
 
-Please read this together with Dynatrace documentation.
+Please read this together with Official Dynatrace documentation - [Log Monitoring](https://www.dynatrace.com/support/help/shortlink/log-monitoring-hub)
 
 ## Table of Contents:
 
