@@ -57,7 +57,7 @@ Other examples are:
 - [Extended Log Format](https://en.wikipedia.org/wiki/Extended_Log_Format)
 - [Syslog](https://en.wikipedia.org/wiki/Syslog)
 
-Semi-structured logs made log parsing easier for Log Management systems, as the order of contents became predictable, but this too was not without issues (Afterall, its just text strings).
+Semi-structured logs made log parsing easier for Log Management systems, as the order of contents became predictable, but this too was not without issues (After all, it's just text strings).
 
 ### Structured Logs
 Structured logs came in as a solution to log parsing problems. These logs are written in easily parsed formats likes JSON, XML etc. JSON is arguably the most popular of the lot and you are likely to see a lot more of it.
