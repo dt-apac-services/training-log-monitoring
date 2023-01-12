@@ -1,6 +1,6 @@
 # 2. Dynatrace Log Monitoring
 
-There are 4 main stages to Dynatrace Log Monitoring setup
+There are 4 main steps to Dynatrace Log Monitoring setup
 1. Log Ingestion
 2. Log Processing
 3. Log Data Analytics
