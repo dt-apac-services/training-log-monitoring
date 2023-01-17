@@ -46,7 +46,7 @@ This is the third step of Dynatrace Log Monitoring. Once the data is in Dynatrac
 
 > Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Log powered by Grail. 
 > 
-> Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Logs powered by Grail is the latest and most advanced offering.
+> Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Log powered by Grail is the latest and most advanced offering.
 
 Log Viewer has a search bar with dropdown selection and an advanced view for custom queries. The advanced search query accepted will depend on your Log Monitoring version.
 
