@@ -2,7 +2,8 @@
 
 Dynatrace log monitoring capabilities can be broadly classified into Log Monitoring Classic (LQL) and **Log powered by Grail**.
 
-Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Logs powered by Grail is the latest and most advanced offering.
+Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Log powered by Grail is the latest and most advanced offering.
+
 As we will see below, 'Log Data Analytics' is where Dynatrace log capability diverges into Log Monitoring Classic and Log powered by Grail. Steps 1 & 2 in log monitoring setup (below) are the same for both new and old capabilities.
 
 > To read more about Grail and how it brings a huge leap in log management see below resources:

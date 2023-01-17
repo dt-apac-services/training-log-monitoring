@@ -2,7 +2,7 @@
 
 This is the third main step of Dynatrace Log Monitoring. Once data is ingested and processed, it is available for viewing, creation of log events and log metrics and enrichment of traces (PurePaths).
 
-Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Logs powered by Grail. 
+Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Log powered by Grail. 
 
 > Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Logs powered by Grail is the latest and most advanced offering.
 
