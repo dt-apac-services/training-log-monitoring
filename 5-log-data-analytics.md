@@ -2,16 +2,21 @@
 
 This is the third main step of Dynatrace Log Monitoring. Once data is ingested and processed, it is available for viewing, creation of log events and log metrics and enrichment of traces (PurePaths).
 
-Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Logs powered by Grail. 
+Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Log powered by Grail. 
 
-> Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Logs powered by Grail is the latest and most advanced offering.
+> Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Log powered by Grail is the latest and most advanced offering.
 
 
 ## Log Viewer
 
 Log Viewer lists all the ingested log entries. From this page you can filter for insights using the `Filter` bar. 
 
-The search Language for LQL is [Dynatrace Search Query Language](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/analyze-log-data/log-viewer#sql) while the search language for Logs powered by Grail is [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub)
+The search Language for LQL is [Dynatrace Search Query Language](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/analyze-log-data/log-viewer#sql) while the search language for Log powered by Grail is [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub)
+
+> **Dynatrace Query Language (DQL)** and **Grail** brings huge advantages for log monitoring when compared to older Dynatrace Search Query language. 
+> 
+> Learn more about DQL here - [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub)
+> 
 
 Clicking on a single log line opens it up in a pop-up view showing additional details including any fields (custom attributes) that were extracted during parsing. Image 5.2 highlights `cpuusage` custom attribute that was captured in [4.1-processor-rule-definition](4.1-processor-rule-definition.md).
 
