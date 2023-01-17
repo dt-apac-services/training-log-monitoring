@@ -1,5 +1,16 @@
 # 2. Dynatrace Log Monitoring
 
+Dynatrace log monitoring capabilities can be broadly classified into Log Monitoring Classic (LQL) and **Log powered by Grail**.
+
+Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Logs powered by Grail is the latest and most advanced offering.
+As we will see below, 'Log Data Analytics' is where Dynatrace log capability diverges into Log Monitoring Classic and Log powered by Grail. Steps 1 & 2 in log monitoring setup (below) are the same for both new and old capabilities.
+
+> To read more about Grail and how it brings a huge leap in log management see below resources:
+> - [Dynatrace Grail: The data lakehouse for observability and security analysis and automation](https://www.dynatrace.com/news/blog/why-you-need-a-data-lakehouse/)
+> - [Any analysis, any time: Dynatrace Log Management and Analytics powered by Grail](https://www.dynatrace.com/news/blog/any-analysis-any-time/)
+
+<br/>
+
 There are 4 main steps to Dynatrace Log Monitoring setup
 1. Log Ingestion
 2. Log Processing
@@ -32,7 +43,7 @@ NOTE: Logs powered by Grail has the capability to parse logs in-line during a lo
 ## Log Data Analytics
 This is the third step of Dynatrace Log Monitoring. Once the data is in Dynatrace and parsed, it is available for viewing through  'Log Viewer'. In this step more actions like custom log metric & custom attributes (capture of specific value) creation are done.
 
-Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Logs powered by Grail. 
+Log Data Analytics step is where Dynatrace Log Monitoring capability diverges into Log Monitoring Classic (LQL) and Log powered by Grail. 
 
 > Log Monitoring Classic (LQL) is the common name for combined Log Monitoring 1.0 and Log Monitoring 2.0 capabilities and Logs powered by Grail is the latest and most advanced offering.
 

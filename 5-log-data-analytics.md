@@ -13,6 +13,11 @@ Log Viewer lists all the ingested log entries. From this page you can filter for
 
 The search Language for LQL is [Dynatrace Search Query Language](https://www.dynatrace.com/support/help/how-to-use-dynatrace/log-monitoring/analyze-log-data/log-viewer#sql) while the search language for Logs powered by Grail is [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub)
 
+> **Dynatrace Query Language (DQL)** and **Grail** brings huge advantages for log monitoring when compared to older Dynatrace Search Query language. 
+> 
+> Learn more about DQL here - [Dynatrace Query Language](https://www.dynatrace.com/support/help/shortlink/dql-dynatrace-query-language-hub)
+> 
+
 Clicking on a single log line opens it up in a pop-up view showing additional details including any fields (custom attributes) that were extracted during parsing. Image 5.2 highlights `cpuusage` custom attribute that was captured in [4.1-processor-rule-definition](4.1-processor-rule-definition.md).
 
 
